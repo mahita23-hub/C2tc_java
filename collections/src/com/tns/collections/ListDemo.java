@@ -13,7 +13,6 @@ public final class ListDemo {
 		ob.add(14);
 		ob.add(null);
 		
-	
 		System.out.println(ob);
 		
 		boolean c=ob.contains(4);
